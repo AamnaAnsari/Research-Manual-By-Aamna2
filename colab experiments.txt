@@ -1,0 +1,8 @@
+Results : 
+
+8.1 DistilBERT freeze: Trainable parameters: 592,130 / 66,955,010 (0.88%)
+
+8.4 LoRA (TinyLlama):trainable params: 1,126,400 || all params: 1,101,174,784 || trainable%: 0.1023
+
+8.7 VRAM estimator: Approximate 7B VRAM Estimates (GB): {'Inference_BF16_GB': 16.0, 'FFT_Static_GB': 116.0, 'LoRA_16bit_GB': 18.0, 'QLoRA_GB': 7.8}
+
